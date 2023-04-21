@@ -5,6 +5,8 @@ subtitle = 'weekly digest of interesting things around the net'
 theme = 'terminal'
 keywords = 'learning,mind,growth'
 enableRobotsTXT = true
+enableEmoji = true
+
 
 [params]
   contentTypeName = "posts"
