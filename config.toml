@@ -1,0 +1,51 @@
+baseURL = 'https://stretcht.com/'
+languageCode = 'en-us'
+title = 'stretcht - stretching the limits of your mind'
+subtitle = 'weekly digest of interesting things around the net'
+theme = 'terminal'
+keywords = 'learning,mind,growth'
+enableRobotsTXT = true
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "green"
+  showMenuItems = 0
+  showLanguageSelector = false
+  fullWidthTheme = true
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = false
+  favicon = "favicon.ico"
+  readingTime = true
+  images = ['logo.png']
+  subtitle = 'weekly digest of interesting things around the net'
+
+[params.giscus]
+  repo = "momentmaker/stretcht"
+  repoID = "R_kgDOJZ03ng"
+  category = "Posts"
+  categoryID = "DIC_kwDOJZ03ns4CV9PW"
+  mapping = "og:title"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "dark"
+  lang = "en"
+  loading = "lazy"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    menuMore = "Show"
+    readMore = "Read"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "stretcht"
+      logoHomeLink = "/"
