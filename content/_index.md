@@ -7,3 +7,5 @@ framed: true
 # stretcht
 
 stretching the limits of your mind with interesting digests
+
+mind@stretcht.com
