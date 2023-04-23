@@ -9,3 +9,9 @@ framed: true
 stretching the limits of your mind with interesting digests
 
 mind@stretcht.com
+
+⬡ ⬡ ⬡ ⏣ ⬡ ⬡ ⬡
+
+**more weekly digests**
+
+[perprompt](https://perprompt.com) ⬡ [smartcontractstack](https://smartcontractstack.com)

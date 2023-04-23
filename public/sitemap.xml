@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stretcht.com/categories/</loc>
+    <loc>https://stretcht.com/tags/app/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/bots/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/career/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/css/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/email/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/energy/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/game/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/posts/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/posts/w16-2023/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/categories/</loc>
   </url>
 </urlset>
