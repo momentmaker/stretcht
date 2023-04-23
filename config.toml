@@ -49,5 +49,5 @@ enableEmoji = true
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "stretcht"
+      logoText = "«<{¤}>»"
       logoHomeLink = "/"
