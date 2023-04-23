@@ -1,3 +1,3 @@
-# Smart Contract Stack
+# stretcht
 
-Get your weekly dose of crypto, blockchain, and nft related news and tool.
+weekly digest of interesting things around the net
