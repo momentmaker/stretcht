@@ -1,0 +1,22 @@
+name: Send email via SES 
+on: 
+  push: 
+    paths: 
+      - '**/*'  # match all files 
+jobs: 
+  send_email: 
+    runs-on: ubuntu-latest 
+    steps: 
+      - uses: aws-actions/configure-aws-credentials@v1 
+        with: 
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }} 
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }} 
+          aws-region: us-east-2
+      
+      - name: Send email via SES 
+        run: | 
+          aws ses send-email \ 
+            --source love@frankz.hu \ 
+            --destination zendosoul@gmail.com \ 
+            --message "New file created: ${{ github.event.ref }} " \ 
+            --subject "File created alert"
