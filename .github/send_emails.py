@@ -22,7 +22,7 @@ message = {
     }, 
     'MessageBody': { 
         'Text': { 
-            'Data': os.environ.get('event') 
+            'Data': os.environ.get('CHANGED_FILES') 
         } 
     } 
 }
