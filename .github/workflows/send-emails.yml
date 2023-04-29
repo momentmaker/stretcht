@@ -16,7 +16,7 @@ jobs:
       - name: Send email via SES 
         run: | 
           aws ses send-email \ 
-            --source love@frankz.hu \ 
+            --from love@frankz.hu \ 
             --destination zendosoul@gmail.com \ 
             --message "New file created: ${{ github.event.ref }} " \ 
             --subject "File created alert"
