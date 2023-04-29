@@ -16,11 +16,15 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install boto3
+    - name: Get changed files 
+      run: | 
+        CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }}) 
+    - name: Store in env var 
+      run: | 
+        echo "::set-env name=CHANGED_FILES::${CHANGED_FILES}"
     - name: Run script
       run: python .github/send_emails.py
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_REGION: us-east-2
-        CHANGED_FILES: ${{ github.event.push.files[*] }}
-
