@@ -1,22 +1,25 @@
-name: Send email via SES 
+name: Send Emails
 on: 
   push: 
     paths: 
       - '**/*'  # match all files 
-jobs: 
-  send_email: 
-    runs-on: ubuntu-latest 
-    steps: 
-      - uses: aws-actions/configure-aws-credentials@v1 
-        with: 
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }} 
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }} 
-          aws-region: us-east-2
-      
-      - name: Send email via SES 
-        run: | 
-          aws ses send-email \ 
-            --from love@frankz.hu \ 
-            --destination zendosoul@gmail.com \ 
-            --message "New file created: ${{ github.event.ref }} " \ 
-            --subject "File created alert"
+jobs:
+  send-emails:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install boto3
+    - name: Run script
+      run: python ./github/send_emails.py
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_REGION: us-east-2
+        event: ${{ github.event.ref }}
