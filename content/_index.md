@@ -8,7 +8,7 @@ framed: true
 
 stretching the limits of your mind with interesting digests
 
-mind@stretcht.com
+[subscribe](mailto:subscribe@stretcht.com?subject=add%20me) ⬡ [rss](https://stretcht.com/index.xml)
 
 ⬡ ⬡ ⬡ ⏣ ⬡ ⬡ ⬡
 
