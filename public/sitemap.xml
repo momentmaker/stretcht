@@ -2,8 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://stretcht.com/tags/ai/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://stretcht.com/tags/ancient/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/cli/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/dark-pattern/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/feynman/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/free/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/game/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/gif/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/learn/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/learning/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/mac/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/monitoring/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/oss/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/password/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/pen/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/posts/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/privacy/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/search/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/startup/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/tool/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/tor/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/tv/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/web/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/posts/w18-2023/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/wisdom/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stretcht.com/tags/writing/</loc>
+    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/android/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
@@ -41,34 +122,13 @@
     <loc>https://stretcht.com/tags/interesting/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stretcht.com/tags/learning/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://stretcht.com/tags/music/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/tags/oss/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/posts/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/remote/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/starlink/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/tags/startup/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/tags/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/tags/tool/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/trackpad/</loc>
@@ -78,9 +138,6 @@
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/posts/w17-2023/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/tags/wisdom/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/app/</loc>
@@ -96,9 +153,6 @@
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/tags/energy/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stretcht.com/tags/game/</loc>
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stretcht.com/posts/w16-2023/</loc>
