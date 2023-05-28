@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>buddhism on stretcht - stretching the limits of your mind</title>
+    <link>https://stretcht.com/tags/buddhism/</link>
+    <description>Recent content in buddhism on stretcht - stretching the limits of your mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stretcht.com/tags/buddhism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 21 - 2023</title>
+      <link>https://stretcht.com/posts/w21-2023/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://stretcht.com/posts/w21-2023/</guid>
+      <description>108 paper planes with multipel variations flying in the sky grow Beej&amp;rsquo;s Guide to Network Programming (beej.us) | [💬 discussion] - Hello, one and all! This is my little how-to guide on network programming using Internet sockets, or &amp;ldquo;sockets programming&amp;rdquo;, for those of you who prefer it. The sockets API, though started by the Berkeley folk, has been ported to many many platforms, including Unix, Linux, and even Windows. { #networking #learning }</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://stretcht.com/img/w21-2023-stretcht.png&#34;  alt=&#34;108 paper planes with multipel variations flying in the sky&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;108 paper planes with multipel variations flying in the sky&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;grow&#34;&gt;grow&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://beej.us/guide/bgnet/&#34;&gt;Beej&amp;rsquo;s Guide to Network Programming&lt;/a&gt; &lt;sub&gt;(beej.us)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36025611&#34;&gt;💬 discussion&lt;/a&gt;] - Hello, one and all! This is my little how-to guide on network programming using Internet sockets, or &amp;ldquo;sockets programming&amp;rdquo;, for those of you who prefer it. The sockets API, though started by the Berkeley folk, has been ported to many many platforms, including Unix, Linux, and even Windows. { &lt;a href=&#34;https://stretcht.com/tags/networking&#34;&gt;#networking&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://samwho.dev/memory-allocation/&#34;&gt;Memory Allocation&lt;/a&gt; &lt;sub&gt;(samwho.dev)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36029087&#34;&gt;💬 discussion&lt;/a&gt;] - In this post I&amp;rsquo;m going to introduce you to the basics of memory allocation. Allocators exist because it&amp;rsquo;s not enough to have memory available, you need to use it effectively. We will visually explore how simple allocators work. We&amp;rsquo;ll see some of the problems that they try to solve, and some of the techniques used to solve them. At the end of this post, you should know everything you need to know to write your own allocator. { &lt;a href=&#34;https://stretcht.com/tags/coding&#34;&gt;#coding&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/memory&#34;&gt;#memory&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://buddhistuniversity.net/&#34;&gt;The Open Buddhist University @ A website dedicated to providing free, online courses and bibliographies in Buddhist Studies.&lt;/a&gt; &lt;sub&gt;(buddhistuniversity.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36036997&#34;&gt;💬 discussion&lt;/a&gt;] - The Open Buddhist University is an unaccredited, digital resource run by Khemarato Bhikkhu since 2020. { &lt;a href=&#34;https://stretcht.com/tags/buddhism&#34;&gt;#buddhism&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/&#34;&gt;Modern work requires attention. Constant alerts steal it - Stack Overflow Blog&lt;/a&gt; &lt;sub&gt;(stackoverflow.blog)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36034929&#34;&gt;💬 discussion&lt;/a&gt;] - Attention—the time and freedom to focus—is your team’s most valuable resource. { &lt;a href=&#34;https://stretcht.com/tags/attention&#34;&gt;#attention&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tech&#34;&gt;tech&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://clipbase.xyz/&#34;&gt;ClipBase - Search Audio &amp;amp; Video Clips by Words or Phrase&lt;/a&gt; &lt;sub&gt;(clipbase.xyz)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36028833&#34;&gt;💬 discussion&lt;/a&gt;] - Search millions of audio &amp;amp; video clips by word or phrase&amp;hellip; { &lt;a href=&#34;https://stretcht.com/tags/youtube&#34;&gt;#youtube&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/search&#34;&gt;#search&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nyxt.atlas.engineer/&#34;&gt;Nyxt browser: The hacker&amp;rsquo;s browser&lt;/a&gt; &lt;sub&gt;(nyxt.atlas.engineer)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36006423&#34;&gt;💬 discussion&lt;/a&gt;] - Out of the box Nyxt ships with tens of features that allow you to quickly analyze, navigate, and extract information from the Internet. Plus, Nyxt is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification. { &lt;a href=&#34;https://stretcht.com/tags/browser&#34;&gt;#browser&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discoverytrail.org/&#34;&gt;American Discovery Trail ™ | Making Connections – the first coast to coast non-motorized trail&lt;/a&gt; &lt;sub&gt;(discoverytrail.org)&lt;/sub&gt;
+ - The American Discovery Trail creates a coast to coast route across the USA connecting people with rural and urban areas, wilderness, desert mountains and forests, with other trails, and with each other. { &lt;a href=&#34;https://stretcht.com/tags/trail&#34;&gt;#trail&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/hiking&#34;&gt;#hiking&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.foldnfly.com&#34;&gt;Fold &amp;lsquo;N Fly » Paper Airplane Folding Instructions&lt;/a&gt; &lt;sub&gt;(foldnfly.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36087442&#34;&gt;💬 discussion&lt;/a&gt;] - A database of paper airplanes with easy to follow folding instructions, video tutorials and printable folding plans. Find the best paper airplanes that fly the furthest and stay aloft the longest. Learn how to make paper airplanes that will impress your friends. { &lt;a href=&#34;https://stretcht.com/tags/craft&#34;&gt;#craft&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/fun&#34;&gt;#fun&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ironicsans.substack.com/p/i-get-no-mail-and-its-glorious&#34;&gt;I Get No Mail and It’s Glorious - by David Friedman&lt;/a&gt; &lt;sub&gt;(ironicsans.substack.com)&lt;/sub&gt;
+ - Unsubscribe junk mails { &lt;a href=&#34;https://stretcht.com/tags/mail&#34;&gt;#mail&lt;/a&gt;
+ &lt;a href=&#34;https://stretcht.com/tags/spam&#34;&gt;#spam&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
